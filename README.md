@@ -1,1 +1,2 @@
 # Habit-Impact
+Habit Impact is a console-based Java application designed to promote mindful living by tracking habits that benefit both personal health and the environment. Users can set, monitor, and improve daily habits related to sustainable consumption, like reducing waste, saving energy, and making eco-friendly choices, as well as wellness-oriented habits such as physical activity and self-care. By aligning with SDG 12 and SDG 3, Habit Impact empowers users to lead a healthier, more sustainable lifestyle, one habit at a time.
