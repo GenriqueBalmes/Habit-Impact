@@ -6,7 +6,6 @@ public class Main {
         HabitLogger habitLogger = new HabitLogger();
         WeeklySummary weeklySummary = new WeeklySummary();
         GoalTracker goalTracker = new GoalTracker("Goal");
-        ImpactAnalyzer impactAnalyzer = new ImpactAnalyzer();
 
         System.out.println("Welcome to Habit Impact!");
         boolean running = true;
@@ -75,10 +74,6 @@ public class Main {
                         habitLogger.addHabit(habit); // Add habit to logger
                         weeklySummary.addDailyScore(habit.getDailyScore()); // Update weekly summary
                         System.out.println("Feedback: " + habit.provideFeedback());
-
-                        // Display the impact score for the habit
-                        int impactScore = impactAnalyzer.calculateImpactScore(habit);
-                        System.out.println("Impact Score for this habit: " + impactScore);
                     }
                     break;
 
