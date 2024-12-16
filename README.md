@@ -28,7 +28,7 @@ Encouraging hydration by tracking water intake.
 Reducing screen time to improve mental and physical well-being.
 The program fosters long-term behavioral change by providing users with feedback and motivation to maintain healthier lifestyles.
 
-#Instructions for Running the Program
+Instructions for Running the Program
 To run this program, you need to have Java Development Kit (JDK) 8 or higher installed on your system, along with Visual Studio Code and the Java Extension Pack.
 
 First, clone the repository to your local machine using a terminal in Visual Studio Code. Once you have the repository URL, use the command git clone <repository-url> to copy the project to your system.
