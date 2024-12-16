@@ -1,9 +1,9 @@
-Habit Impact
+# Habit Impact
 
-Project Overview
+## Project Overview
 Habit Impact is a Java-based console application designed to encourage users to develop healthier habits. By allowing users to log daily habits, view weekly summaries, and set personal goals, the application promotes accountability and mindfulness. The program aligns with Sustainable Development Goal (SDG) 3: Good Health and Well-being, aiming to foster healthier lifestyles and improve well-being.
 
-Object-Oriented Programming Principles
+# Object-Oriented Programming Principles
 This project demonstrates the core principles of Object-Oriented Programming (OOP):
 
 1. Encapsulation
@@ -19,8 +19,8 @@ This allows the program to handle different habit types uniformly while enabling
 The abstract Habit class defines common properties and behaviors for all habits, while leaving the implementation of certain methods, such as logHabit and provideFeedback, to the subclasses.
 This hides implementation details while exposing essential functionalities.
 
-Sustainable Development Goal (SDG) Integration
-SDG 3: Good Health and Well-being
+# Sustainable Development Goal (SDG) Integration
+## SDG 3: Good Health and Well-being
 This project contributes to SDG 3 by:
 
 Promoting healthy eating habits through the Food Habit logging feature.
@@ -28,7 +28,7 @@ Encouraging hydration by tracking water intake.
 Reducing screen time to improve mental and physical well-being.
 The program fosters long-term behavioral change by providing users with feedback and motivation to maintain healthier lifestyles.
 
-Instructions for Running the Program
+# Instructions for Running the Program
 To run this program, you need to have Java Development Kit (JDK) 8 or higher installed on your system, along with Visual Studio Code and the Java Extension Pack.
 
 First, clone the repository to your local machine using a terminal in Visual Studio Code. Once you have the repository URL, use the command git clone <repository-url> to copy the project to your system.
