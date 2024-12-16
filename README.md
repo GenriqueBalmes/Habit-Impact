@@ -41,4 +41,3 @@ Once the program is compiled, run it by typing java Main in the terminal. Altern
 
 When the program starts, a menu will appear with options to log habits, view summaries, set goals, and reset data. Follow the prompts to interact with the application.
 
-If you encounter any issues running the program, ensure your Java environment is properly configured in Visual Studio Code. For detailed guidance on setting up Java in Visual Studio Code, refer to the official documentation or reach out to your instructor for assistance.
